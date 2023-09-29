@@ -1,0 +1,5 @@
+export const environment = {
+  production: true,
+  apiUrl: "https://cms.dzagenciademodelos.com/api/",
+  token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZHNpX3VzZXIiOjEsInVzdWFyaW8iOiJBZG1pbmlzdHJhZG9yIiwiZW1haWwiOiJhZG1pbkBkemFnZW5jaWFkZW1vZGVsb3MxLmNvbSIsImlkcm9sIjoxLCJpZGNsaWVudGUiOjAsInN1cGVyIjoxLCJpZHNlc2lvbiI6MSwiaWF0IjoxNjkwNzYwNTIzLCJleHAiOjE3MjIyOTY1MjN9.WYoePGkKYptvYscSpDEoKjhbI5XJAqnrF_OnCd_WgPE"
+};
